@@ -1,0 +1,5 @@
+---
+cluster_name:
+
+ocp_assets_dir: logs/ocp_assets
+clusters_details_file: clusters_details.yml
